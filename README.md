@@ -22,3 +22,7 @@ The project uses TF-IDF for text feature extraction and Multinomial Naive Bayes 
 - TF-IDF feature extraction
 - Machine Learning classification
 - Spam/Ham prediction
+
+## 🚀 Live Demo
+
+[Try the SMS Spam Classifier](https://email-sms-spam-classifier-uockzpsqrhl3tuiymxk5rk.streamlit.app/)
